@@ -117,7 +117,8 @@ object BreezeMatrix {
   Practical No: 7
   AIM:- Write a Scala program to read a CSV dataset and compute basic statistics.
   
-Create csv file and add values(1,2,3,4,5) in excel and save it in the project
+Create csv file and add values(1,2,3,4,5) in excel and save it as data.csv in the project as practiclas
+and copy realtive path in code at practicals/data.csv
 CODE:-
 import scala.io.Source
  
