@@ -1,3 +1,10 @@
+if there is problem in main.scala
+code:-
+@main def main(): Unit =
+  println("I was compiled by Scala 3. :)")
+
+
+
 Practical No: 1
 
 Installation and Setup of Scala
