@@ -70,7 +70,8 @@ object variance {
  def main(args: Array[String]): Unit = { 
  val data = Array(10, 20, 30, 40, 50) 
  val mean = data.sum.toDouble / data.length 
- val variance = data.map(x => (x - mean) * (x - mean)).sum / data.length  val standardDeviation = Math.sqrt(variance) 
+ val variance = data.map(x => (x - mean) * (x - mean)).sum / data.length 
+ val standardDeviation = Math.sqrt(variance) 
  println("Mean: " + mean) 
  println("Variance: " + variance) 
  println("Standard Deviation: " + standardDeviation) 
