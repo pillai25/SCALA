@@ -121,6 +121,7 @@ object BreezeMatrix {
     println("\nDeterminant:")
     println(det(matrix))
   }
+  }
 
   Practical No: 7
   AIM:- Write a Scala program to read a CSV dataset and compute basic statistics.
