@@ -29,7 +29,7 @@ object maths {
 val a: Int = 20 
 val b: Int = 5 
 val marks: Double = 50.6 
-val name: String = "sayee" 
+val name: String = "ram" 
 val addition = a + b 
 val subtraction = a - b 
 val multiplication = a * b 
